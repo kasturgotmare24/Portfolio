@@ -16,7 +16,7 @@ This portfolio serves as a **digital resume** and **project showcase**, built wi
 ## 🛠 Technologies Used
 
 🔹 **Frontend** – HTML, CSS, JavaScript  
-🔹 **Frameworks/Libraries** – Bootstrap 
+🔹 **Frameworks/Libraries** – Bootstrap <br>
 🔹 **Deployment** – GitHub Pages  
 
 ## 🚀 Getting Started
