@@ -10,15 +10,14 @@ This portfolio serves as a **digital resume** and **project showcase**, built wi
 
 ✅ **Sleek & Responsive Design** – Works flawlessly on all devices.  
 ✅ **Projects Showcase** – Display my best works with descriptions.  
-✅ **About Me Section** – A glimpse into my skills, journey, and experience.  
-✅ **Contact Form** – Allows visitors to reach out easily.  
+✅ **About Me Section** – A glimpse into my skills, journey, and experience.   
 ✅ **Smooth Animations** – Enhances user experience with interactive effects.  
 
 ## 🛠 Technologies Used
 
 🔹 **Frontend** – HTML, CSS, JavaScript  
-🔹 **Frameworks/Libraries** – Bootstrap, Tailwind (if used)  
-🔹 **Deployment** – GitHub Pages / Netlify  
+🔹 **Frameworks/Libraries** – Bootstrap 
+🔹 **Deployment** – GitHub Pages  
 
 ## 🚀 Getting Started
 
@@ -30,12 +29,12 @@ This portfolio serves as a **digital resume** and **project showcase**, built wi
 
 ### 3. Customize it by editing the HTML and CSS files to fit your personal brand.
 
-##📌 Future Enhancements
+## 📌 Future Enhancements
 🔹 Dark Mode – A toggle for better accessibility.<br>
 🔹 Blog Section – Share insights, tutorials, and experiences.<br>
 🔹 More Animations – For a dynamic and engaging UI.<br>
 
-##🎨 Live Preview
+## 🎨 Live Preview
 👉 Check it out here: "https://kasturgotmare24.github.io/Portfolio/"
 
 
