@@ -35,6 +35,6 @@ This portfolio serves as a **digital resume** and **project showcase**, built wi
 🔹 More Animations – For a dynamic and engaging UI.<br>
 
 ## 🎨 Live Preview
-👉 Check it out here: "https://kasturgotmare24.github.io/Portfolio/"
+👉 Check it out here: https://kasturgotmare24.github.io/Portfolio/
 
 
