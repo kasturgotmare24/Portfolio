@@ -1,7 +1,7 @@
 🚀 **Personal Portfolio**
 
-**Project Title:** Portfolio Website (HTML/CSS/JS)
-**Tagline:** A Simple and Elegant Static Website Built with HTML, CSS, and JavaScript
+**Project Title:** Portfolio Website (HTML/CSS/JS) <br>
+**Tagline:** A Simple and Elegant Portfolio Website Built with HTML, CSS, and JavaScript
 
 📖 **Description**
 
